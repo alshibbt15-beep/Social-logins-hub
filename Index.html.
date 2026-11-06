@@ -1,0 +1,38 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>ALSHIBBT Social Hub</title>
+<style>
+body {
+  background: #080808;
+  color: gold;
+  font-family: Arial;
+  text-align: center;
+  padding: 40px;
+}
+a {
+  display: block;
+  background: #202020;
+  color: gold;
+  padding: 16px;
+  margin: 15px auto;
+  max-width: 300px;
+  border-radius: 10px;
+  text-decoration: none;
+}
+</style>
+</head>
+<body>
+
+<h1>ALSHIBBT</h1>
+<p>Welcome to my Social Login Hub</p>
+
+<a href="https://www.facebook.com/login/">Facebook Login</a>
+<a href="https://www.instagram.com/accounts/login/">Instagram Login</a>
+<a href="https://www.tiktok.com/login">TikTok Login</a>
+<a href="https://accounts.snapchat.com/">Snapchat Login</a>
+<a href="https://www.x.com/i/flow/login">X Login</a>
+
+</body>
+</html>
